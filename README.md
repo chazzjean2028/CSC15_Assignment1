@@ -2,11 +2,11 @@
 
 Implement the BEETLE game between a player and the computer: 
 
-The first player to roll a dice is determined by an initial dice roll or rolls until one of the players has a higher score than the other. The player with the highest score starts the game.
+* The first player to roll a dice is determined by an initial dice roll or rolls until one of the players has a higher score than the other. The player with the highest score starts the game.
 
-Each round, the first player rolls a dice and determines if a body part can be added to its beetle. Then the second player does the same thing. 
+* In each round, the first player rolls a dice and determines if a body part can be added to its beetle. Then the second player does the same thing. 
 
-Repeat playing rounds until one of the players has a full beetle.  
+* Repeat playing another round until one of the players has a full beetle.  
 
 A full beetle will have one body, a head, two antennae, two eyes, 6 legs and  1 tail.   
 
