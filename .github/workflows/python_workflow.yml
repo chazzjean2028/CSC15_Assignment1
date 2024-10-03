@@ -16,4 +16,4 @@ jobs:
       with:
           python-version: 3.11 #install the python needed
     - name: run python file
-      run: python beetle_function.py
+      run: python beetle_functions.py
