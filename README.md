@@ -29,9 +29,20 @@ There are two python scripts in the assignment:
 * `beetle_functions.py` - contains all function definitions
 * `beetle.py` - contains the code to play the game repeatedly 
 
-Your tasks are: 
+### Your tasks are: 
 
 1. Complete the code of empty or unfinished functions (`beetle_functions.py`) as per the instructions written before the definition of a function in the file `beetle_functions.py`
 2. Add test cases to test each function as shown at the bottom of `the beetle_functions.py` file (below the line if __ name __ == ....). 
-    * Make sure that you add test cases for all possible behaviors of each function. This is very important for your grade and for making sure your game plays correctly. 
-3. Test the full game by running the `beetle.py` script. 
+    * Make sure you add test cases for all possible behaviors of each function. This is very important for your grade and for making sure your game plays correctly. 
+3. Test the full game by running the `beetle.py` script.
+
+### Steps:
+
+- Follow the steps in the CSC15 Startup assignment to clone Assignment 1 repository to your local machine, inside CSC15 folder.
+- Open the two Python files in VS code. Add code to `beetle_functions.py`, save frequently and run your code: `python3 beetle_functions.py`
+- After you made some changes, issue a local commit. Type: `git commit -a -m "Add a message describing what you did"`
+- Push your local changes saved in commits to your online git repository using `git push`. Check your online repository to see the changed files. 
+- Make sure you push everything by the deadline.
+- 
+
+
