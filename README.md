@@ -36,12 +36,12 @@ There are two python scripts in the assignment:
     * Make sure you add test cases for all possible behaviors of each function. This is very important for your grade and for making sure your game plays correctly. 
 3. Test the full game by running the `beetle.py` script.
 
-### Steps:
+### Steps to save local changed and to push them to the online assignment repository:
 
-- Follow the steps in the CSC15 Startup assignment to clone Assignment 1 repository to your local machine, inside CSC15 folder.
-- Open the two Python files in VS code. Add code to `beetle_functions.py`, save frequently and run your code: `python3 beetle_functions.py`
-- After you made some changes, issue a local commit. Type: `git commit -a -m "Add a message describing what you did"`
-- Push your local changes saved in commits to your online git repository using `git push`. Check your online repository to see the changed files. 
-- Make sure you push everything by the deadline. 
+1. Follow the steps in the CSC15 Startup assignment to clone Assignment 1 repository to your local machine, inside CSC15 folder.
+2. Open the two Python files in VS code. Add code to `beetle_functions.py`, save frequently and run your code: `python3 beetle_functions.py`. Do the same for `beetle.py` 
+3. After you made some changes, issue a local commit. Type: `git commit -a -m "Add a message describing what you did"`
+4. Push your local changes saved in commits to your online git repository using `git push`. Check your online repository to see the changed files
+5.  Make sure you push everything by the deadline. 
 
 
