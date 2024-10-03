@@ -42,7 +42,6 @@ There are two python scripts in the assignment:
 - Open the two Python files in VS code. Add code to `beetle_functions.py`, save frequently and run your code: `python3 beetle_functions.py`
 - After you made some changes, issue a local commit. Type: `git commit -a -m "Add a message describing what you did"`
 - Push your local changes saved in commits to your online git repository using `git push`. Check your online repository to see the changed files. 
-- Make sure you push everything by the deadline.
-- 
+- Make sure you push everything by the deadline. 
 
 
